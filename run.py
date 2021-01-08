@@ -1,5 +1,3 @@
-from xls2db import xls2db
-
 from flask import Flask
 from flask_sqlalchemy import SQLAlchemy
 from sqlalchemy.ext.automap import automap_base
